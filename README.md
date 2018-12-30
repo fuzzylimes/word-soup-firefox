@@ -1,0 +1,1 @@
+*Word Soup* is a word substituion extension for firefox. I had found several examples of text replacers online, but all of them were hardcoded/requried editing source to define substitution. This extension allows you to define your own filters however you want.
